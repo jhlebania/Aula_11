@@ -5,3 +5,5 @@ Alteração
 Estou na Branch 'main'
 
 Após o merge!
+
+Alteração feita no site do GitHub para testar o pull
